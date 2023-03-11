@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction with sklearn (Linear Regression - KNN - Decision Tree - Random Forest)
+Çeşitli makine öğrenmesi algoritmaları yardımıyla hastalarda kalp yetmezliği olup olmadığını tespit eden bir projedir. Veri seti Kaggle'dan alındı ve Python ile yazıldı. Logistic Regression, KNN, Random Forest ve Decision Tree algoritmaları kullanıldı. Kullanılan algoritmalar karşılaştırılarak en iyi sonucu veren algoritma belirlenmeye çalışıldı.
